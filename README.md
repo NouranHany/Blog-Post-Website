@@ -1,13 +1,14 @@
 # Blog-Post-Website
 A blogging website for creating posts, and viewing all and each created post.
 
-### Technologies used
-- Express
-- Nodejs
-- HTML, CSS, Javascript
-
 ### Preview
 - ![demo gif](/demo.gif)
+
+### Technologies used
+<div>
+  <img src="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg" width="300">
+  <img src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png" width="250">
+</div>
 
 ## Packages used
 
@@ -15,6 +16,9 @@ Use the package manager npm to install express, body-parser packages.
 
 ```bash
 npm install express body-parser
+```
+```bash
+npm install lodash
 ```
 
 ## Usage
